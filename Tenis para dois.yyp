@@ -35,10 +35,13 @@
   },
   "name":"Tenis para dois",
   "resources":[
+    {"id":{"name":"objBola","path":"objects/objBola/objBola.yy",},},
     {"id":{"name":"objParede","path":"objects/objParede/objParede.yy",},},
+    {"id":{"name":"objPlacar","path":"objects/objPlacar/objPlacar.yy",},},
     {"id":{"name":"objPlayer1","path":"objects/objPlayer1/objPlayer1.yy",},},
     {"id":{"name":"objPlayer2","path":"objects/objPlayer2/objPlayer2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprBola","path":"sprites/sprBola/sprBola.yy",},},
     {"id":{"name":"sprParede","path":"sprites/sprParede/sprParede.yy",},},
     {"id":{"name":"sprPlayers","path":"sprites/sprPlayers/sprPlayers.yy",},},
   ],

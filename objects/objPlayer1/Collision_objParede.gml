@@ -1,4 +1,4 @@
-//64 é o tamanho do spritedo player
+//64 é o tamanho do sprite do player
 #region Proteção
 	if y < 64 {
 		y += 5
@@ -8,4 +8,4 @@
 		y -= 5
 	}
 	
-#endregion*/
+#endregion
